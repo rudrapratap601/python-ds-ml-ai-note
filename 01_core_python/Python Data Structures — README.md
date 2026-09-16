@@ -11,6 +11,40 @@ The most commonly used data structures are:
 
 ---
 
+## 📑 Table of Contents
+
+1. [Introduction](#python-data-structures)
+2. [List](#1-list)
+   - [Creating & Accessing Lists](#creating-a-list)
+   - [Modifying Elements](#modifying-elements)
+   - [Common List Methods](#common-list-methods)
+   - [List Comprehension](#list-comprehension)
+3. [Tuple](#2-tuple)
+   - [Creating Tuples](#creating-tuples)
+   - [Single-Element Tuple](#single-element-tuple)
+   - [Tuple Unpacking](#tuple-unpacking)
+   - [Common Tuple Methods](#common-tuple-methods)
+4. [Set](#3-set)
+   - [Creating an Empty Set](#creating-an-empty-set)
+   - [Adding & Removing Elements](#adding-elements)
+   - [Set Operations](#set-operations)
+5. [Dictionary](#4-dictionary)
+   - [Accessing Values](#accessing-values)
+   - [Adding & Updating Values](#adding-or-updating-values)
+   - [Removing Elements](#removing-elements-1)
+   - [Important Dictionary Methods](#important-dictionary-methods)
+   - [Iterating Through a Dictionary](#iterating-through-a-dictionary)
+   - [Dictionary Comprehension](#dictionary-comprehension)
+6. [Comparison](#5-comparison)
+7. [Choosing the Right Data Structure](#6-choosing-the-right-data-structure)
+8. [Nested Data Structures](#7-nested-data-structures)
+9. [Important Quick Reference](#8-important-quick-reference)
+10. [Data Structure Cheat Sheet](#9-data-structure-cheat-sheet)
+11. [Remember](#10-remember)
+12. [Related Topics](#related-topics)
+
+---
+
 ## 1. List
 
 A **list** is an ordered and mutable collection. It can contain duplicate values and different data types.
