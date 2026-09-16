@@ -978,13 +978,3 @@ Tuple      → "I need a collection that should not change."
 Set        → "I only care about unique values."
 Dictionary → "I want to access data using a key."
 ```
-
----
-
-## Related Topics
-
-- [Python Variables](../fundamentals/variables.md)
-- [Python Loops](../fundamentals/loops.md)
-- [List Comprehension](../comprehensions/list-comprehension.md)
-- [Functions](../functions/README.md)
-- [Object-Oriented Programming](../oop/README.md)
