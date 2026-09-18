@@ -22,7 +22,7 @@ I am continuously adding, improving, and reorganizing notes as I learn new conce
 
 ## 📁 1. Core & Advanced Python
 
-- [Core Syntax & Data Structures](./01_core_python/) — Lists, tuples, dictionaries, sets, slicing, comprehensions, functions, exceptions, and other essential Python mechanics.
+- [Core Syntax & Data Structures](./01_core_python/) — Lists, tuples, dictionaries, sets, slicing, comprehensions, functions.
 - [Advanced Python](./02_advanced_python/) — Decorators, generators, iterators, context managers, dunder methods, and advanced language features.
 
 ---
