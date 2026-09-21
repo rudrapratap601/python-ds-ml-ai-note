@@ -23,21 +23,22 @@ I am continuously adding, improving, and reorganizing notes as I learn new conce
 ## 📁 1. Core & Advanced Python
 
 - [Core Syntax & Data Structures](./01_core_python/) — Lists, tuples, dictionaries, sets, slicing, comprehensions, functions.
-- [Advanced Python](./02_advanced_python/) — Decorators, generators, iterators, context managers, dunder methods, and advanced language features.
+- [Advanced Python](./02_advanced_python/README.md) — File handling, exceptions, recursion, namespaces, decorators, generators, and GUI development with Streamlit.
 
 ---
 
 ## 📁 2. Object-Oriented Programming
 
-- [OOP Principles](./03_oop_principles/) — Encapsulation, inheritance, polymorphism, abstraction, classes, objects, and the `abc` module.
-- [Design Patterns](./03_oop_principles/patterns.md) — Singleton, Factory, and other useful software design patterns.
+- [OOP Principles: Basic to Advanced](./03_oop_principles/README.md) — Eight organized chapters covering classes, properties, inheritance, protocols, dataclasses, descriptors, metaclasses, and a tested mini-project.
+- [Design Patterns](./03_oop_principles/patterns.md) — SOLID, strategy, factories, adapters, composition, repositories, and design tradeoffs.
 
 ---
 
 ## 📁 3. Data Science
 
-- [NumPy & Pandas](./04_data_science/) — Arrays, vectorization, indexing, filtering, grouping, merging, transformations, and efficient data manipulation.
-- [EDA & Visualization](./04_data_science/visualization.md) — Exploratory Data Analysis and practical Matplotlib/Seaborn visualization references.
+- [Data Science Library Index](./04_data_science/README.md) — Seven separate guides with a reading order, examples, and practice tasks.
+- [NumPy](./04_data_science/numpy.md), [pandas](./04_data_science/pandas.md), [SciPy](./04_data_science/scipy.md), and [Polars](./04_data_science/polars.md) — Numerical computing, data analysis, scientific algorithms, and lazy table processing.
+- [Matplotlib](./04_data_science/matplotlib.md), [Seaborn](./04_data_science/seaborn.md), and [Plotly](./04_data_science/plotly.md) — Scientific, statistical, and interactive visualization.
 
 ---
 
@@ -55,6 +56,12 @@ I am continuously adding, improving, and reorganizing notes as I learn new conce
 - [Deep Learning Fundamentals](./06_artificial_intelligence/) — Neural networks, activation functions, forward propagation, backpropagation, weights, biases, and optimization.
 - [Frameworks](./06_artificial_intelligence/frameworks.md) — PyTorch/TensorFlow references, model building, custom layers, datasets, and training loops.
 - [GenAI & LLMs](./06_artificial_intelligence/genai.md) — Prompt engineering, LLM fundamentals, fine-tuning, RAG, embeddings, APIs, and AI application architectures.
+
+---
+
+## 📁 6. Version Control & Open Source
+
+- [Git, GitHub, GitLab, and Open Source for ML](./version-control.md) — Commands and use cases, branching, conflicts, recovery, PR/MR workflows, ML reproducibility, Git LFS, CI, and GSoC preparation.
 
 ---
 
