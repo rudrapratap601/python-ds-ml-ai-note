@@ -65,6 +65,18 @@ I am continuously adding, improving, and reorganizing notes as I learn new conce
 
 ---
 
+## 📁 7. SQL & Relational Databases
+
+- [SQL Learning Index](./08_sql/README.md) — A structured beginner-to-advanced course with a shared practice database, joins, subqueries, CTEs, window functions, optimization, transactions, analytics, and worked exercises.
+
+---
+
+## 📁 8. Excel & Spreadsheet Analysis
+
+- [Excel Learning Index](./09_excel/README.md) — Structured beginner-to-advanced notes covering formulas, lookups, PivotTables, dashboards, Power Query, DAX, statistics, VBA, Office Scripts, Python integration, and worked practice projects.
+
+---
+
 ## 🚀 How to Use This Repo
 
 1. Use **`Ctrl + F`** (or `Cmd + F`) on this page to search for a specific keyword.
