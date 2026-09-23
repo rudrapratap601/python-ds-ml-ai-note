@@ -207,10 +207,6 @@ If the bad formatting was already committed, a new corrective commit on the same
 **Original project has new commits?** On clean local `main`: fetch upstream → fast-forward merge if possible → push origin main.  
 **My PR shows hundreds of unexpected edits?** Inspect diffs and formatting before pushing more changes.
 
-## 12. Your next learning milestone
-
-Day 6: Read real issues and project contribution guidelines. Choose a small Python task you can explain; do not start coding before understanding the expected behavior. Next, learn `pytest` and debugging through a tiny Python example, then move to a real code contribution.
-
 ## References
 
 - GitHub contributing guide: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source
